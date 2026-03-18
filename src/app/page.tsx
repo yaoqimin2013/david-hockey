@@ -6,13 +6,13 @@ const highlights = [
   {
     id: 1,
     game: "10U AA Scrimmage",
-    src: "/highlights/10U AA Scrimmage.mp4",
+    src: "https://qazwggeughquiqhxbxho.supabase.co/storage/v1/object/public/highlights/10U%20AA%20Scrimmage.mp4",
     type: "video",
   },
   {
     id: 2,
     game: "First Scrimmage 2026",
-    src: "/highlights/David_First_Scrimmage_2026.mp4",
+    src: "https://qazwggeughquiqhxbxho.supabase.co/storage/v1/object/public/highlights/David_First_Scrimmage_2026.mp4",
     type: "video",
   },
 ];

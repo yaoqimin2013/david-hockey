@@ -39,7 +39,7 @@ export default function Home() {
       {/* Hero */}
       <section className="max-w-5xl mx-auto px-6 pt-16 pb-10 text-center">
         <div className="inline-block bg-[#38bdf8]/10 border border-[#38bdf8]/30 text-[#38bdf8] text-sm px-4 py-1.5 rounded-full mb-6">
-          East Cobb Ice Hawks · #7
+          Atlanta Phoenix · #22
         </div>
         <h1 className="text-7xl font-bold mb-4 tracking-tight bg-gradient-to-b from-white to-white/60 bg-clip-text text-transparent">
           David Yao
